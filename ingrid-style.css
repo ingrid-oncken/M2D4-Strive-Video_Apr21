@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(15, 23, 30);
+  color: white;
+}
+
+.dropdown-menu {
+  background-color: #343a40;
+}
+
+.carousel .carousel-indicators li {
+  border-radius: 40%;
+}
+
+#carousel-example-1z div img {
+  height: 400px;
+  object-fit: cover;
+}
+
+#h5-before::before {
+  content: "Strive ";
+  color: yellow;
+}

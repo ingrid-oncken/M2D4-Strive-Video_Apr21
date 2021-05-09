@@ -128,7 +128,8 @@ footer img {
   /* This will be showing up together with the .movie-card-body content*/
   /* Therefore it will be transitioning together with it.*/
   content: ""; /* to have a psuedo element display we need a content even if empty*/
-  /* same dimentions of the closest parent with a position value set (in this case, .movie-card-body itself*/
+  /* same dimentions of the closest parent with a position value set 
+  (in this case, .movie-card-body itself*/
   position: absolute;
   width: 100%;
   height: 20%;
